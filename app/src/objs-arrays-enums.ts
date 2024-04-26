@@ -22,15 +22,15 @@ enum Role {
     AUTHOR,
 }
 
-const person = {
-    name: 'Coney',
-    age: 25,
-    hobbies: ['Sports', 'Cooking'],
-    role: Role.ADMIN,
-}
+// const person = {
+//     name: 'Coney',
+//     age: 25,
+//     hobbies: ['Sports', 'Cooking'],
+//     role: Role.ADMIN,
+// }
 
-if (person.role === Role.ADMIN) {
-    console.log('ADMIN');
-}
+// if (person.role === Role.ADMIN) {
+//     console.log('ADMIN');
+// }
 
-const string: any = 1;
+// const string: any = 1;
